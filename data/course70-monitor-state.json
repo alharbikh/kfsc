@@ -1,42 +1,186 @@
 {
   "seen": [
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ERHpNaXd4Y0JlVGtudlJjWklpVWIxWFFPVjUzUms3ZHNHRERCYUhDWGxmQUt4MlFrZ1RLdnpQWUZTQ3A3N2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9iR0RqYXNPNG9MWE95RkJkTW1EQ2tkcTFTQ0daS1Bfc2VVZFFsSWJFY2tXa0pPRnJRTWxYMEdsSS1zWEVNSGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yZlVEcFl0VnJucjlSLXdfcXBTS2pyVmo3UXVJSWxBOTRTTjUxb2JVTXh6Q2N3R21pRVU0ckVicEpTeW51ZFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WFFzc0Z0NjNHTllpQjZNVlUtbGdaRFlDb1J4Nk56aHpRWXJyWEtMa0ZBeEdvU1RqcmVvaTY5cEw5SE13a1RpajVSY3MxSTJKcUU2MQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BeGtaUVMxX0lIdXdFeVAybWJPNmxXdXpGOEt4Vl9LaWRyaDFzeXdrVXhHX1ZHQVdrcUg3S1YycmZwbjFS?oc=5",
-    "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sQl94MGhXc042cG5UV25LMmFleEpOVWhObEViLUxaYUd2VnRDMGlNZTJVNmxkLWNaazlJdzNUOFRfazJ0Vmc?oc=5"
+    "https://code.visualstudio.com/",
+    "https://visualstudio.microsoft.com/",
+    "https://visualstudio.microsoft.com/downloads/",
+    "https://code.visualstudio.com/download",
+    "https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170",
+    "https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170",
+    "https://de.wikipedia.org/wiki/Visual_Studio",
+    "https://www.techspot.com/downloads/7493-visual-studio-2022.html",
+    "https://de.wikipedia.org/wiki/Visual_C%2B%2B",
+    "https://www.techspot.com/downloads/6776-visual-c-redistributable-package.html",
+    "https://playvalorant.com/",
+    "https://playvalorant.com/fr-fr/",
+    "https://store.epicgames.com/p/valorant?lang=fr",
+    "https://www.riotgames.com/fr",
+    "https://support.riotgames.com/fr/valorant/",
+    "https://store.epicgames.com/p/valorant?lang=en-US",
+    "https://login.playvalorant.com/",
+    "https://apps.microsoft.com/detail/9nkcchcfthv2?hl=fr-FR&gl=FR",
+    "https://fr.wikipedia.org/wiki/Valorant",
+    "https://en.wikipedia.org/wiki/Valorant",
+    "https://tvtc.gov.sa/",
+    "https://ic.edu.sa/",
+    "https://edugate.drsulaimanalhabib.edu.sa/shc/ui/guest/application_online/index/typeApplicationOnlineIndex.faces",
+    "https://gulf.edu.sa/",
+    "https://mjc.edu.sa/",
+    "https://kkmar.sang.gov.sa/",
+    "https://alnahda.edu.sa/ar",
+    "https://vision.edu.sa/",
+    "https://gc.edu.sa/",
+    "https://gulf.edu.sa/dip-colleges"
   ],
   "items": [
     {
-      "title": "عام / كلية الملك فهد الأمنية تبدأ إجراءات القبول المبدئي لطالبي الالتحاق ببرنامج بكالوريوس العلوم الأمنية الـ (70) لحملة الثانوية العامة - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ERHpNaXd4Y0JlVGtudlJjWklpVWIxWFFPVjUzUms3ZHNHRERCYUhDWGxmQUt4MlFrZ1RLdnpQWUZTQ3A3N2c?oc=5",
-      "published": "Sun, 16 Aug 2026 13:33:29 GMT"
+      "title": "Visual Studio Code - The open source AI code editor | Your home for ...",
+      "link": "https://code.visualstudio.com/",
+      "published": "نتيجة بحث عامة - غير موثقة"
     },
     {
-      "title": "عام / إعلان نتائج المرشحين للقبول المبدئي بدورة بكالوريوس العلوم الأمنية لحاملي شهادة الثانوية العامة رقم (70) لحملة الشهادة الثانوية العامة بكلية الملك فهد الأمنية - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9iR0RqYXNPNG9MWE95RkJkTW1EQ2tkcTFTQ0daS1Bfc2VVZFFsSWJFY2tXa0pPRnJRTWxYMEdsSS1zWEVNSGc?oc=5",
-      "published": "Sat, 08 Aug 2026 14:05:14 GMT"
+      "title": "Visual Studio: IDE and Code Editor for Software Development",
+      "link": "https://visualstudio.microsoft.com/",
+      "published": "نتيجة بحث عامة - غير موثقة"
     },
     {
-      "title": "عام/ ابتداءً من السبت.. فتح باب القبول للالتحاق بدورة بكالوريوس العلوم الأمنية لحاملي شهادة الثانوية العامة الـ(70) بكلية الملك فهد الأمنية - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yZlVEcFl0VnJucjlSLXdfcXBTS2pyVmo3UXVJSWxBOTRTTjUxb2JVTXh6Q2N3R21pRVU0ckVicEpTeW51ZFE?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT"
+      "title": "Visual Studio Downloads for Windows",
+      "link": "https://visualstudio.microsoft.com/downloads/",
+      "published": "نتيجة بحث عامة - غير موثقة"
     },
     {
-      "title": "الهاشتاجات - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12WFFzc0Z0NjNHTllpQjZNVlUtbGdaRFlDb1J4Nk56aHpRWXJyWEtMa0ZBeEdvU1RqcmVvaTY5cEw5SE13a1RpajVSY3MxSTJKcUU2MQ?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT"
+      "title": "Download Visual Studio Code - Free AI Code Editor for Mac, Linux, Windows",
+      "link": "https://code.visualstudio.com/download",
+      "published": "نتيجة بحث عامة - غير موثقة"
     },
     {
-      "title": "عام / فتح باب القبول لخريجي الثانوية العامة للدورة رقم (65) بكلية الملك فهد الأمنية (ضباط) - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BeGtaUVMxX0lIdXdFeVAybWJPNmxXdXpGOEt4Vl9LaWRyaDFzeXdrVXhHX1ZHQVdrcUg3S1YycmZwbjFS?oc=5",
-      "published": "Sun, 09 May 2021 07:00:00 GMT"
+      "title": "Latest Supported Visual C++ Redistributable Downloads",
+      "link": "https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170",
+      "published": "نتيجة بحث عامة - غير موثقة"
     },
     {
-      "title": "عام / المملكة في عام 1447هـ.. إنجازات نوعية ومكتسبات وطنية - وكالة الأنباء السعودية",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sQl94MGhXc042cG5UV25LMmFleEpOVWhObEViLUxaYUd2VnRDMGlNZTJVNmxkLWNaazlJdzNUOFRfazJ0Vmc?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT"
+      "title": "Neueste unterstützte Visual C++ Redistributable-Downloads",
+      "link": "https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Visual Studio – Wikipedia",
+      "link": "https://de.wikipedia.org/wiki/Visual_Studio",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Visual Studio 2022 Download Free - 17.14.37 | TechSpot",
+      "link": "https://www.techspot.com/downloads/7493-visual-studio-2022.html",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Visual C++ – Wikipedia",
+      "link": "https://de.wikipedia.org/wiki/Visual_C%2B%2B",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Microsoft Visual C++ Redistributable Download Free - 14.51.36247.0 ...",
+      "link": "https://www.techspot.com/downloads/6776-visual-c-redistributable-package.html",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "VALORANT",
+      "link": "https://playvalorant.com/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "VALORANT",
+      "link": "https://playvalorant.com/fr-fr/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "VALORANT | Télécharger et jouer gratuitement - Epic Games Store",
+      "link": "https://store.epicgames.com/p/valorant?lang=fr",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Home | Riot Games",
+      "link": "https://www.riotgames.com/fr",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Support de VALORANT - Riot Games",
+      "link": "https://support.riotgames.com/fr/valorant/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "VALORANT | Download and Play for Free - Epic Games Store",
+      "link": "https://store.epicgames.com/p/valorant?lang=en-US",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Valorant - Sign in",
+      "link": "https://login.playvalorant.com/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "PC VALORANT - Téléchargement et lecture gratuits sur Windows ...",
+      "link": "https://apps.microsoft.com/detail/9nkcchcfthv2?hl=fr-FR&gl=FR",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Valorant — Wikipédia",
+      "link": "https://fr.wikipedia.org/wiki/Valorant",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Valorant - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Valorant",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "المؤسسة العامة للتدريب التقني والمهني",
+      "link": "https://tvtc.gov.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "الكلية التقنية العالمية / الصفحة الرئيسية",
+      "link": "https://ic.edu.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كلية الدكتور سليمان الحبيب للمعرفة :: البوابة الإلكترونية للنظام الأكاديمي",
+      "link": "https://edugate.drsulaimanalhabib.edu.sa/shc/ui/guest/application_online/index/typeApplicationOnlineIndex.faces",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "Gulf - كلية الخليج",
+      "link": "https://gulf.edu.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كلية منار الجنوب",
+      "link": "https://mjc.edu.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "لجنة القبول والتسجيل بكلية الملك خالد العسكرية",
+      "link": "https://kkmar.sang.gov.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كلية النهضة",
+      "link": "https://alnahda.edu.sa/ar",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كليات الرؤية – Vision College",
+      "link": "https://vision.edu.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كليات الغد طريقك نحو تعليم صحي رائد لمستقبل واعد",
+      "link": "https://gc.edu.sa/",
+      "published": "نتيجة بحث عامة - غير موثقة"
+    },
+    {
+      "title": "كلية الخليج",
+      "link": "https://gulf.edu.sa/dip-colleges",
+      "published": "نتيجة بحث عامة - غير موثقة"
     }
   ]
 }
